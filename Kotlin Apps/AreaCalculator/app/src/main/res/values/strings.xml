@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="square">Square</string>
+    <string name="area_heading">Formula:</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="rectangle_button">Rectangle</string>
+    <string name="length_hint">Enter Length</string>
+    <string name="breadth_hint">Enter Breadth</string>
+    <string name="app_heading">Area Calculator</string>
+</resources>
